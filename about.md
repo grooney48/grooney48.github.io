@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a current MA in Public History student at Northeastern University, and I work for the Boston Red Sox as the Archives and Special Collections Assistant. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I love to watch movies and TV, and to hang out with my friends. I also love to cook and Taylor Swift
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+rooney.g@northeastern.edu
