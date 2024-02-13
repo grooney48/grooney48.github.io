@@ -8,7 +8,10 @@ I am a current MA in Public History student at Northeastern University, and I wo
 
 ### More Information
 
-I love to watch movies and TV, and to hang out with my friends. I also love to cook and Taylor Swift
+I like to: 
+* watch movies and TV
+* Cooking 
+* Taylor Swift
 
 ### Contact me
 
